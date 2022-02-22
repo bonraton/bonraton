@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**bonraton/bonraton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! My name is Oleg. 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Spent a year learning frontend with [Yandex.Praktikum](https://practicum.yandex.ru/)
+- :boxing_glove: Like to fight with strong tasks
+- :school: Seek to new knowlege
+- :detective: Actively looking for a first job
+- 👨🏻‍💻  With strong and expirienced team
+
+### My Stack
+- HTML5
+- CSS3
+- JS
+- React.js
+- Express.js
+- MongoDb
+### In process
+- TS
+- SASS
+
