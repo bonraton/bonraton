@@ -23,3 +23,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div> 
+
+### My stats
+[![Bonraton GitHub stats](https://github-readme-stats.vercel.app/api?username=bonraton&theme=radical&hide=contribs,issues)](https://github.com/bonraton/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonraton&layout=compact&theme=radical)](https://github.com/bonraton/github-readme-stats)
+
