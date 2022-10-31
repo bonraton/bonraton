@@ -1,10 +1,8 @@
 ### Hello! My name is Oleg. 👋
 
-- :mortar_board: Spent a year learning frontend with [Yandex.Praktikum](https://practicum.yandex.ru/)
-- :boxing_glove: Like to fight with strong tasks
-- :school: Seek to new knowlege
-- :detective: Actively looking for a first job
-- 👨🏻‍💻  With strong and expirienced team
+- :mortar_board: Always learn new techs
+- :boxing_glove: Looking for strong tasks
+- 👨🏻‍💻  Want to be a part of high skilled team
 
 ### My Stack
 <div>
@@ -15,15 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt=MongoDB" width="40" height="40"/>&nbsp;
-                                                                                                                                                       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
-### In proccess
-<div>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-</div> 
 
 ### My stats
 [![Bonraton GitHub stats](https://github-readme-stats.vercel.app/api?username=bonraton&theme=radical&hide=contribs,issues)](https://github.com/bonraton/github-readme-stats)
